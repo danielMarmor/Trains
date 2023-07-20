@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trains", "Trains.csproj", "{ECD32F00-FB95-4217-AA37-353261999F1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ECD32F00-FB95-4217-AA37-353261999F1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ECD32F00-FB95-4217-AA37-353261999F1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ECD32F00-FB95-4217-AA37-353261999F1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ECD32F00-FB95-4217-AA37-353261999F1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA1BBD90-0488-4B1E-81CB-E09D4610AED7}
+	EndGlobalSection
+EndGlobal
